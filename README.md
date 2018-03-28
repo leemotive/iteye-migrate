@@ -1,7 +1,7 @@
 # iteye-migration
 将自己iteye上的博客导出
 
-##使用方法
+## 使用方法
 在migration.py里面更新iteye的用户名和密码，进入migration.py所在目录，并执行以下命令
 ```shell
 $ python3 migration.py
